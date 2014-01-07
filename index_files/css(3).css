@@ -1,0 +1,12 @@
+@font-face {
+	font-family: Merriweather Sans;
+	src: local("Merriweather Sans Light"), local("MerriweatherSans-Light"), url(http://themes.googleusercontent.com/static/fonts/merriweathersans/v2/6LmGj5dOJopQKEkt88GowdYASHgfgyB7g8BNe7pvKXk.eot) format("embedded-opentype"), url(http://themes.googleusercontent.com/static/fonts/merriweathersans/v2/6LmGj5dOJopQKEkt88GowY_zIojJi0m4a5Z6tRh6itY.woff) format("woff");
+	font-weight: 300;
+	font-style: normal;
+}
+@font-face {
+	font-family: Merriweather Sans;
+	src: local("Merriweather Sans Bold"), local("MerriweatherSans-Bold"), url(http://themes.googleusercontent.com/static/fonts/merriweathersans/v2/6LmGj5dOJopQKEkt88GowaD2fnm4z6Nq0x6aGUXpBdU.eot) format("embedded-opentype"), url(http://themes.googleusercontent.com/static/fonts/merriweathersans/v2/6LmGj5dOJopQKEkt88GowQfd-b-I5PxxcmB4_-MNcqw.woff) format("woff");
+	font-weight: 700;
+	font-style: normal;
+}
